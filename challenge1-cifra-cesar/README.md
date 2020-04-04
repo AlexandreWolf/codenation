@@ -1,11 +1,9 @@
 <h1 align="center">
-<div style="background-color: #212133; height: 80px; display: flex; justify-content: center; align-items: center">
     <img
     title="#logo-codenation"
-    src="./assets/images/codenation.svg"
+    src="./assets/images/codenation2.svg"
     width="200px"
     />
-</div>
 </h1>
 
 ## 📢 Considerações
