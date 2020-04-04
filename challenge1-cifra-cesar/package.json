@@ -1,0 +1,28 @@
+{
+  "name": "challenge1-cifra-cesar",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": {
+    "name": "Alexandre Guidio Wolf",
+    "url": "http://alexandrewolf.github.io"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "dev:debug": "nodemon --inspect src/server.js"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "nodemon": "^2.0.2",
+    "prettier": "^2.0.2",
+    "sucrase": "^3.13.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
