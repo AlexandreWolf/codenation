@@ -29,6 +29,7 @@ Escrever programa, em qualquer linguagem de programação, que faça uma requisi
 ```
 https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=SEU_TOKEN
 ```
+
 O resultado da requisição vai ser um JSON conforme o exemplo:
 ```
 {
