@@ -1,7 +1,7 @@
 <h1 align="center">
     <img
     title="#logo-codenation"
-    src="./assets/images/codenation2.svg"
+    src="./assets/images/codenation.svg"
     width="200px"
     />
 </h1>
