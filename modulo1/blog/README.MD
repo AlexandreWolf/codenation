@@ -9,3 +9,11 @@
 ## 📝 Módulo 1 - "Hora do código"
 # Blog
 Códigos da aula "Hora do código" onde foi desenvolvido um simples blog com HTML e CSS.
+
+<h1 align="center">
+    <img
+    title="#logo-codenation"
+    src="./assets/images/preview.jpg"
+    width="200px"
+    />
+</h1>
