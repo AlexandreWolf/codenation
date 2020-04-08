@@ -14,6 +14,5 @@ Códigos da aula "Hora do código" onde foi desenvolvido um simples blog com HTM
     <img
     title="#logo-codenation"
     src="./assets/images/preview.jpg"
-    width="200px"
     />
 </h1>
